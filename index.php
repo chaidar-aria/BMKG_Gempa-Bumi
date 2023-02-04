@@ -59,7 +59,7 @@
                         <li class="list-group-item d-flex justify-content-between lh-sm">
                             <div>
                                 <h6 class="my-0">Koordinat</h6>
-                                <small class="text-muted"><?php echo $id->point ?></small>
+                                <small class="text-muted"><?php echo $id->point->coordinates ?></small>
                             </div>
                         </li>
                         <li class="list-group-item d-flex justify-content-between lh-sm">
